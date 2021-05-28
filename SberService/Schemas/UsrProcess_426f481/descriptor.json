@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "315b78b8-d567-4fcc-9a62-f5a098d409c2",
+    "Name": "UsrProcess_426f481",
+    "ModifiedOnUtc": "\/Date(1622112608000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Сбор обратной связи по заявке",
+    "DependsOn": []
+  }
+}

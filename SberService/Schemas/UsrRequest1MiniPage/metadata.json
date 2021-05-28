@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "4f097d07-fcdb-43cb-9dce-ac4d60c8f1c0"
+= MetaData.Schema.A2 "UsrRequest1MiniPage"
+= MetaData.Schema.A5 "be59f025-22b2-46dc-9fa1-2f27b60a9f62"
+= MetaData.Schema.B6 "88d5761e-acb1-9a5f-5a6d-0968d5e05d56"
+= MetaData.Schema.B8 "7.18.0.1353"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

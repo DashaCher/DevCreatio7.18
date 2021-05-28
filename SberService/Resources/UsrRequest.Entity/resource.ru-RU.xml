@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявки" />
+			<Item Name="Columns.UsrApplicant.Caption" Value="Заявитель" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="Показывать поле для расчёта" />
+			<Item Name="Columns.UsrCategory.Caption" Value="Категория" />
+			<Item Name="Columns.UsrCategory2.Caption" Value="Подкатегория" />
+			<Item Name="Columns.UsrDeadline.Caption" Value="Дедлайн выполнения" />
+			<Item Name="Columns.UsrExecutor.Caption" Value="Исполнитель" />
+			<Item Name="Columns.UsrFloat1.Caption" Value="Дробное число 1" />
+			<Item Name="Columns.UsrFloat2.Caption" Value="Дробное число 2" />
+			<Item Name="Columns.UsrFloat3.Caption" Value="Результат" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="Конечный результат" />
+			<Item Name="Columns.UsrName.Caption" Value="Номер" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Состояние" />
+			<Item Name="Columns.UsrString.Caption" Value="Причина несоблюдения сроков" />
+			<Item Name="Columns.UsrText.Caption" Value="Описание" />
+		</Items>
+	</Group>
+</Resources>

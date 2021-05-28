@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "21cf2e9e-65fa-4d56-af7c-26d7482bd8ea",
+    "Name": "UsrExpTypes",
+    "ModifiedOnUtc": "\/Date(1622020155000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Типы расходов",
+    "DependsOn": []
+  }
+}

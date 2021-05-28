@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "845ad8cb-8428-42b2-a733-edee0c02b45b",
+    "Name": "UsrRequestInFolder",
+    "ModifiedOnUtc": "\/Date(1621931437000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявки в группе",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Заявки&quot;" />
+			<Item Name="LocalizableStrings.ESNTabGroup4f27c3c2GroupCaption.Value" Value="Поля для расчёта" />
+			<Item Name="LocalizableStrings.UsrSchema8db4ff4bDetailc01ad9b1DetailCaptionOnPage.Value" Value="Расходы по заявкам" />
+		</Items>
+	</Group>
+</Resources>

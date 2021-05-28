@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "190afa05-0cac-490f-aa5d-ef33f4cb4e67",
+    "Name": "UsrRequest1Page",
+    "ModifiedOnUtc": "\/Date(1622019470000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Заявки\"",
+    "DependsOn": []
+  }
+}

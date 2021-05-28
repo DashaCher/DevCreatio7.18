@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2f1e3eab-1208-4d18-b350-bbadc15e3bf4",
+    "Name": "UsrSbsExpReq",
+    "ModifiedOnUtc": "\/Date(1622020156000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Расходы по заявкам",
+    "DependsOn": []
+  }
+}

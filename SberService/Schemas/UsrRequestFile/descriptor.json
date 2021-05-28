@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4dbbad76-fe46-4dc7-a56e-a01656ec2879",
+    "Name": "UsrRequestFile",
+    "ModifiedOnUtc": "\/Date(1621931427000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Заявки",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "179e05f8-7cce-49c8-902f-ff0414ea4516",
+    "Name": "UsrRequest169d5d47Section",
+    "ModifiedOnUtc": "\/Date(1621931405000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Заявки\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ce43a7f-c7ba-4d02-a75d-4be8388f61c7",
+    "Name": "UsrSchemaed11095aDetail",
+    "ModifiedOnUtc": "\/Date(1622018812000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Заявки",
+    "DependsOn": []
+  }
+}
